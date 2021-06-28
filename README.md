@@ -1,4 +1,4 @@
-# WhatsappWebChromeExtension
+# Chrome-extension-for-whatsapp
 Whatsapp Web Helper - Chrome Extension to send repeated messages
 
 # Step to use:
